@@ -1,0 +1,39 @@
+p { /*Selector de la etiqueta "p" */
+	font-size:14pt;
+	color: black;
+}
+
+.titulo24{
+	font-size: 24pt;
+	background: black;
+	color: white;
+	width: 90%;
+	border-radius: 10px;
+	font-weight: bold;
+	font-family: courier;
+}
+
+.boton{
+	font-size: 14pt;
+	font-weight: bold;
+	color: white;
+	background: black;
+	width: 200px;
+	height: 70px;
+	border-radius: 10px;
+}
+
+.boton:hover{
+	color: black;
+	background: white;	
+}
+
+.campo{
+	background: black;
+	color: white;
+	font-size: 14pt;
+	border-radius: 7px;
+	text-align: center;
+	font-weight: bold;
+	width: 200px;
+}
